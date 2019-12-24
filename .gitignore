@@ -1,0 +1,12 @@
+# .gitignore for the PMSRankSectors project
+
+# ignore Mac-specific directory descriptor file
+.DS_Store
+# ignore Eclipse files
+.project
+.settings
+.includepath
+# ignore any directory named 'old' - temp backups
+old/
+# ignore vi temp files
+*.swp
