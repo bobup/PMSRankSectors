@@ -13,7 +13,7 @@
 # NOTE:  this code assumes that we only generate results for "Single Age Group", meaning that if a swimmer
 # changes age groups during the season all of their points apply to their oldest age group.
 #
-# Copyright (c) 2017 Bob Upshaw.  This software is covered under the Open Source MIT License 
+# Copyright (c) 2019 Bob Upshaw and Pacific Masters.  This software is covered under the Open Source MIT License 
 
 
 package RS_RankSectors;

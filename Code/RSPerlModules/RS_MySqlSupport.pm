@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 # RS_MySqlSupport.pm - support routines and values used by the MySQL based code.
 
-# Copyright (c) 2019 Bob Upshaw.  This software is covered under the Open Source MIT License 
+# Copyright (c) 2019 Bob Upshaw and Pacific Masters.  This software is covered under the Open Source MIT License 
 
 package RS_MySqlSupport;
 
